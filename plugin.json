@@ -1,0 +1,17 @@
+{
+  "id": "com.blacksolutions.acodecord",
+  "name": "AcodeCord",
+  "main": "main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "changelogs": "changelogs.md",
+  "icon": "icon.png",
+  "price": 0,
+  "license": "MIT",
+  "keywords": ["discord", "rich presence", "rpc"],
+  "author": {
+    "name": "Black Solutions",
+    "url": "https://github.com/ghosttobygg/acodecord",
+    "github": "ghosttobygg"
+  }
+}
