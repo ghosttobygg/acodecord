@@ -53,4 +53,4 @@ MIT License — Copyright (c) 2026 Black Solutions. Veja [LICENSE](./LICENSE).
 
 ## Repositório
 
-github.com/ghosttobygg/acodecord
+https://github.com/ghosttobygg/acodecord
