@@ -50,3 +50,7 @@ Código aberto no GitHub — contribuições são bem-vindas.
 ## Licença
 
 MIT License — Copyright (c) 2026 Black Solutions. Veja [LICENSE](./LICENSE).
+
+## Repositório
+
+github.com/ghosttobygg/acodecord
