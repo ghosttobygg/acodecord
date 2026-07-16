@@ -1,19 +1,19 @@
 {
   "id": "com.blacksolutions.acodecord",
   "name": "AcodeCord",
+  "description": "Discord Rich Presence para o Acode - mostra o que você está codando no Discord.",
   "main": "main.js",
   "version": "1.0.0",
+  "icon": "icon.png",
   "readme": "readme.md",
   "changelogs": "changelogs.md",
-  "icon": "icon.png",
-  "minVersionCode": 290,
+  "minVersionCode": 954,
   "price": 0,
   "license": "MIT",
-  "keywords": ["discord", "rich presence", "rpc"],
+  "keywords": ["acode", "discord", "rich presence", "rpc"],
   "author": {
     "name": "Black Solutions",
     "email": "contatosoninhodev@gmail.com",
-    "url": "https://github.com/ghosttobygg/acodecord",
     "github": "ghosttobygg"
   }
 }
